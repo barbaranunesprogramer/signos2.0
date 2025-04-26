@@ -6,7 +6,7 @@
     <div class="container mt-5">
         <h2 class="mb-4">Informe sua data de nascimento</h2>
 
-        <form action="recebe_dados.php" method="POST">
+        <form action="show__zodiac_sign.php" method="POST">
             <div class="mb-3">
                 <label for="data_nascimento" class="form-label">Data de Nascimento</label>
                 <input type="date" class="form-control" id="data_nascimento" name="data_nascimento" required>
